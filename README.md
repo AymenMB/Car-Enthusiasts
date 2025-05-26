@@ -1,6 +1,7 @@
 # Car Enthusiasts - Comprehensive Car Catalog Application
 
-![Car Enthusiasts Logo](https://via.placeholder.com/150x50?text=Car+Enthusiasts)
+![Dashboard](dashboard.png)
+![Welcome](welcome.png)
 
 Car Enthusiasts is a comprehensive web application designed for automotive lovers, collectors, and enthusiasts. This full-stack application allows users to explore, manage, and showcase a rich catalog of various car types - from high-performance sports cars to timeless classics and practical everyday vehicles.
 
@@ -205,7 +206,7 @@ MONGODB_URI=mongodb://localhost:27017/carCatalogDB
 ```typescript
 export const environment = {
   production: false,
-  apiUrl: "http://localhost:3001/api",
+  apiUrl: 'http://localhost:3001/api',
 };
 ```
 
